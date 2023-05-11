@@ -1,0 +1,15 @@
+{
+  "name": "function",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/aws-lambda": "~8",
+    "aws-lambda": "^1.0.6"
+  },
+  "dependencies": {
+    "@aws-sdk/client-ssm": "^3.329.0",
+    "@aws-sdk/types": "^3.32.0",
+    "dynamoose": "^3.2.0",
+    "dynamoose-logger": "^3.1.0",
+    "ts-node": "^9.0.0"
+  }
+}
